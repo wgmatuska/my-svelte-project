@@ -514,7 +514,7 @@ var app = (function () {
     			p.textContent = "Below is a button which makes a request to an HTTP API and shows the response.";
     			t1 = space();
     			button = element("button");
-    			t2 = text("Response, for a 101010101010 time. ");
+    			t2 = text("Response, for a skillionth time. Object requested: ");
     			t3 = text(/*myValue*/ ctx[0]);
     			t4 = text(".");
     			add_location(p, file$1, 20, 0, 473);

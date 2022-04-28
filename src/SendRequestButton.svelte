@@ -20,6 +20,6 @@
 
 <p>Below is a button which makes a request to an HTTP API and shows the response.</p>
 <button on:click={myRequest}>
-    Response, for a 101010101010 time. {myValue}.
+    Response, for a skillionth time. Object requested: {myValue}.
 </button>
 
